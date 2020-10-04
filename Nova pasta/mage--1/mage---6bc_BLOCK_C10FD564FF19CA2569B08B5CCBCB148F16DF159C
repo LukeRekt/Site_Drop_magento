@@ -1,0 +1,260 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1601507299;s:6:"expire";i:1601593699;s:4:"tags";s:176:"6bc_CAT_P,6bc_BLOCK_HTML,6bc_CAT_P_49,6bc_CAT_P_36,6bc_CAT_P_42,6bc_CAT_P_43,6bc_CAT_P_35,6bc_CAT_P_40,6bc_CAT_P_41,6bc_CAT_P_34,6bc_CAT_P_46,6bc_CAT_P_45,6bc_CAT_P_44,6bc_MAGE";}
+    <div class="block widget block-products-list grid">
+                <div class="block-title">
+            <strong>Produtos Especiais</strong>
+        </div>
+                <div class="block-content">
+            <!-- new_products_content_widget_grid-->            <div class="products products-grid grid">
+                <ol class="product-items widget-product-grid">
+                                                                <li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/magento/calcinha-do-jean.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 100%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\c5b0e6136a6dd7f7d91d8b889ed40f35\//p/n/pnv4ldtf.jpg"
+            max-width="300"
+            max-height="300"
+            alt="Calcinha do Jean"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="49" data-price-box="product-id-49">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+        <span  id="old-price-49-widget-product-grid"                data-price-amount="0"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$0.00</span></span>
+        </span>
+
+</div>                                <strong class="product-item-name">
+                                    <a title="Calcinha do Jean"
+                                       href="http://localhost/magento/calcinha-do-jean.html"
+                                       class="product-item-link">
+                                        Calcinha do Jean                                    </a>
+                                </strong>
+
+                                                                <div class="product-item-inner">
+                                    <div class="product-item-actions">
+                                                                                <div class="actions-primary">
+                                                                                                                                                        <form data-role="tocart-form" data-product-sku="Calcinha do Jean" action="http://localhost/magento/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw%2C%2C/product/49/" method="post">
+                                                        <input type="hidden" name="product" value="49">
+                                                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl0WVdkbGJuUnZMdyUyQyUyQy9wcm9kdWN0LzQ5Lw,,">
+                                                        <input name="form_key" type="hidden" value="UFqpYhxdz0nvTO39" />                                                        <button type="submit"
+                                                                title="Add to Cart"
+                                                                class="action tocart primary">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                    </form>
+                                                                                            </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"49","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"49","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/magento/weekday-stella-triangle-bra.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 100%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\c5b0e6136a6dd7f7d91d8b889ed40f35\/w/e/weekday_stella_triangle_bra.jpg"
+            max-width="300"
+            max-height="300"
+            alt="Weekday Stella Triangle Bra"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="36" data-price-box="product-id-36">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-36-widget-product-grid"                data-price-amount="35"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$35.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <strong class="product-item-name">
+                                    <a title="Weekday Stella Triangle Bra"
+                                       href="http://localhost/magento/weekday-stella-triangle-bra.html"
+                                       class="product-item-link">
+                                        Weekday Stella Triangle Bra                                    </a>
+                                </strong>
+
+                                                                <div class="product-item-inner">
+                                    <div class="product-item-actions">
+                                                                                <div class="actions-primary">
+                                                                                                                                                        <form data-role="tocart-form" data-product-sku="4556" action="http://localhost/magento/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw%2C%2C/product/36/" method="post">
+                                                        <input type="hidden" name="product" value="36">
+                                                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl0WVdkbGJuUnZMdyUyQyUyQy9wcm9kdWN0LzM2Lw,,">
+                                                        <input name="form_key" type="hidden" value="UFqpYhxdz0nvTO39" />                                                        <button type="submit"
+                                                                title="Add to Cart"
+                                                                class="action tocart primary">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                    </form>
+                                                                                            </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"36","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"36","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/magento/weekday-note-bra.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 100%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\c5b0e6136a6dd7f7d91d8b889ed40f35\/w/e/weekday_note_bra.jpg"
+            max-width="300"
+            max-height="300"
+            alt="Weekday Note Bra"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="35" data-price-box="product-id-35">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-35-widget-product-grid"                data-price-amount="29"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$29.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <strong class="product-item-name">
+                                    <a title="Weekday Note Bra"
+                                       href="http://localhost/magento/weekday-note-bra.html"
+                                       class="product-item-link">
+                                        Weekday Note Bra                                    </a>
+                                </strong>
+
+                                                                <div class="product-item-inner">
+                                    <div class="product-item-actions">
+                                                                                <div class="actions-primary">
+                                                                                                                                                        <form data-role="tocart-form" data-product-sku="4521" action="http://localhost/magento/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw%2C%2C/product/35/" method="post">
+                                                        <input type="hidden" name="product" value="35">
+                                                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl0WVdkbGJuUnZMdyUyQyUyQy9wcm9kdWN0LzM1Lw,,">
+                                                        <input name="form_key" type="hidden" value="UFqpYhxdz0nvTO39" />                                                        <button type="submit"
+                                                                title="Add to Cart"
+                                                                class="action tocart primary">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                    </form>
+                                                                                            </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"35","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"35","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                </div>
+                                                            </div>
+                        </div>
+                                                                    </li><li class="product-item">                        <div class="product-item-info">
+                            <a href="http://localhost/magento/undiz-teamminiz-short.html" class="product-item-photo">
+                                
+<span class="product-image-container"
+      style="width:300px;">
+    <span class="product-image-wrapper"
+          style="padding-bottom: 100%;">
+        <img class="product-image-photo"
+                        src="http://localhost/magento/pub/media/catalog/product\cache\c5b0e6136a6dd7f7d91d8b889ed40f35\/u/n/undiz_teamminiz_short.jpg"
+            max-width="300"
+            max-height="300"
+            alt="Undiz Teamminiz Short"/></span>
+</span>
+                            </a>
+                            <div class="product-item-details">
+                                <div class="price-box price-final_price" data-role="priceBox" data-product-id="34" data-price-box="product-id-34">
+<span class="normal-price">
+    
+
+<span class="price-container price-final_price tax weee"
+        >
+            <span class="price-label">As low as</span>
+        <span  id="old-price-34-widget-product-grid"                data-price-amount="25"
+        data-price-type="finalPrice"
+        class="price-wrapper "
+    ><span class="price">$25.00</span></span>
+        </span>
+</span>
+
+
+</div>                                <strong class="product-item-name">
+                                    <a title="Undiz Teamminiz Short"
+                                       href="http://localhost/magento/undiz-teamminiz-short.html"
+                                       class="product-item-link">
+                                        Undiz Teamminiz Short                                    </a>
+                                </strong>
+
+                                                                <div class="product-item-inner">
+                                    <div class="product-item-actions">
+                                                                                <div class="actions-primary">
+                                                                                                                                                        <form data-role="tocart-form" data-product-sku="4331" action="http://localhost/magento/checkout/cart/add/uenc/aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw%2C%2C/product/34/" method="post">
+                                                        <input type="hidden" name="product" value="34">
+                                                        <input type="hidden" name="uenc" value="aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvL2NoZWNrb3V0L2NhcnQvYWRkL3VlbmMvYUhSMGNEb3ZMMnh2WTJGc2FHOXpkQzl0WVdkbGJuUnZMdyUyQyUyQy9wcm9kdWN0LzM0Lw,,">
+                                                        <input name="form_key" type="hidden" value="UFqpYhxdz0nvTO39" />                                                        <button type="submit"
+                                                                title="Add to Cart"
+                                                                class="action tocart primary">
+                                                            <span>Add to Cart</span>
+                                                        </button>
+                                                    </form>
+                                                                                            </div>
+                                                                                                                            <div class="actions-secondary" data-role="add-to-links">
+                                                                                                    <a href="#"
+                                                       data-post='{"action":"http:\/\/localhost\/magento\/wishlist\/index\/add\/","data":{"product":"34","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}' class="action towishlist" data-action="add-to-wishlist" title="Add&#x20;to&#x20;Wish&#x20;List">
+                                                        <span>Add to Wish List</span>
+                                                    </a>
+                                                                                                                                                                                                        <a href="#" class="action tocompare" data-post='{"action":"http:\/\/localhost\/magento\/catalog\/product_compare\/add\/","data":{"product":"34","uenc":"aHR0cDovL2xvY2FsaG9zdC9tYWdlbnRvLw,,"}}' title="Add&#x20;to&#x20;Compare">
+                                                        <span>Add to Compare</span>
+                                                    </a>
+                                                                                            </div>
+                                                                            </div>
+                                </div>
+                                                            </div>
+                        </div>
+                        </li>                                    </ol>
+            </div>
+                    </div>
+    </div>

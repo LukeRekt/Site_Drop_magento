@@ -1,15 +1,17 @@
-# Magento Sample Dtata Installer
+# Loja Magento Da Rapaziada
 
-Used to import Magento template sample data .sql file to the selected database.
+Esse repositório foi criado para armazenar as versões da loja da rapaziada
 
-### Template implementation
+### TODO
 
-* Create template fullpackage.zip
-* add installer.php file to theroot
-* add dump.sql file to the root
-* replace default Magento index.php file with the one in this repo
+* Mudar o layoult da loja com logo e nome novo.
+* adicionar os produtos escolhidos pela equipe.
+* mudar o template básico do sistema de emails
+* Futuro:Fazer sistema autómatico de checagem de produtos
 
-Index.php file has the following condition added: 
+### OBS
+* o arquivo Anatocaoes site.txt na raiz do rep possui algumas infos sobre a montagem dos site indev que devem ser desfeitas ao dar deploy para o host.
+o arquivo Index.php tem a seguinte condição adicionada: 
 
 `if(!file_exists(__DIR__ . '/app/etc/env.php')){
      $installerPath = "http://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]installer.php";

@@ -1,0 +1,3 @@
+anotações site:
+-mudar magento/vendor/zendframework/zend-mail/src/Protocol/AbstractProtocol.php linha 213(remover o comentario e apagar linhas 214,215,216)
+-sair do modo desenvolvedor
